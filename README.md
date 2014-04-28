@@ -9,7 +9,10 @@
 * http://developer.android.com/samples/index.html
 
 # Reading
-## Architecture 
+
+## Architecture
+
+* http://s.android.com/devices/index.html
 * http://www.compiletimeerror.com/2012/12/blog-post.html#.U15G3VEW0lA
 * http://linuxconfig.org/android-system-architecture
 * http://www.edureka.in/blog/beginners-guide-android-architecture/
